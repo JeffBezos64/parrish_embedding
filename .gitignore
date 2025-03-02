@@ -1,0 +1,6 @@
+parrish_embedding.egg-info/
+test-venv/
+__pycache__/
+parrish_embedding/__pycache__/*
+*.pyc
+*.pyo
